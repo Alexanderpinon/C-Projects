@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaileyReport", "DaileyReport\DaileyReport.csproj", "{57BC7B39-43AC-4CAA-8414-CD29D8DCB706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BC7B39-43AC-4CAA-8414-CD29D8DCB706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BC7B39-43AC-4CAA-8414-CD29D8DCB706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BC7B39-43AC-4CAA-8414-CD29D8DCB706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BC7B39-43AC-4CAA-8414-CD29D8DCB706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E3640B-9FCE-45F2-8BF8-84C4E6F42987}
+	EndGlobalSection
+EndGlobal
