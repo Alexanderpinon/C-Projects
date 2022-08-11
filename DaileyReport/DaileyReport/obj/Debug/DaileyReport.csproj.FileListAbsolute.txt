@@ -5,3 +5,10 @@ C:\Users\ander\OneDrive\Documents\GitHub\Basic_C#_Programs\DaileyReport\DaileyRe
 C:\Users\ander\OneDrive\Documents\GitHub\Basic_C#_Programs\DaileyReport\DaileyReport\obj\Debug\DaileyReport.csproj.CoreCompileInputs.cache
 C:\Users\ander\OneDrive\Documents\GitHub\Basic_C#_Programs\DaileyReport\DaileyReport\obj\Debug\DaileyReport.exe
 C:\Users\ander\OneDrive\Documents\GitHub\Basic_C#_Programs\DaileyReport\DaileyReport\obj\Debug\DaileyReport.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\bin\Debug\DaileyReport.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\bin\Debug\DaileyReport.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\bin\Debug\DaileyReport.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\obj\Debug\DaileyReport.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\obj\Debug\DaileyReport.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\obj\Debug\DaileyReport.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaileyReport\DaileyReport\obj\Debug\DaileyReport.pdb
