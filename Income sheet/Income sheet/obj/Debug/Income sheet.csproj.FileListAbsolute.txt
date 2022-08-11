@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\Income sheet\Income sheet\bin\Debug\Income sheet.exe.config
+C:\Users\ander\source\repos\Income sheet\Income sheet\bin\Debug\Income sheet.exe
+C:\Users\ander\source\repos\Income sheet\Income sheet\bin\Debug\Income sheet.pdb
+C:\Users\ander\source\repos\Income sheet\Income sheet\obj\Debug\Income sheet.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Income sheet\Income sheet\obj\Debug\Income sheet.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Income sheet\Income sheet\obj\Debug\Income sheet.exe
+C:\Users\ander\source\repos\Income sheet\Income sheet\obj\Debug\Income sheet.pdb
