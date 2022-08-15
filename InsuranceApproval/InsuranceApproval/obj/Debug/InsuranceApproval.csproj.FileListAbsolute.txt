@@ -5,3 +5,10 @@ C:\Users\ander\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\Insura
 C:\Users\ander\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
 C:\Users\ander\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
 C:\Users\ander\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
