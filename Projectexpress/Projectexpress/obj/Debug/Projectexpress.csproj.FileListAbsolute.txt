@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\bin\Debug\Projectexpress.exe.config
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\bin\Debug\Projectexpress.exe
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\bin\Debug\Projectexpress.pdb
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.exe
+C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.pdb
