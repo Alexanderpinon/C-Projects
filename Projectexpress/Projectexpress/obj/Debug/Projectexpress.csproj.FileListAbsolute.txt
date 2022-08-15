@@ -5,3 +5,10 @@ C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpre
 C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.csproj.CoreCompileInputs.cache
 C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.exe
 C:\Users\ander\source\repos\Projectexpress\Projectexpress\obj\Debug\Projectexpress.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\bin\Debug\Projectexpress.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\bin\Debug\Projectexpress.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\bin\Debug\Projectexpress.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\obj\Debug\Projectexpress.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\obj\Debug\Projectexpress.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\obj\Debug\Projectexpress.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Projectexpress\Projectexpress\obj\Debug\Projectexpress.pdb

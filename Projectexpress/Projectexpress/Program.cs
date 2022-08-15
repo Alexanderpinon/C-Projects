@@ -35,7 +35,8 @@ namespace Projectexpress
                     Console.WriteLine("Please enter package Length:");
                     int packLength = Convert.ToInt32(Console.ReadLine());
 
-                if (packWidth > 50 && packHeight > 50 && packLength > 50)
+                if (packWidth + packHeight + packLength > 50)
+
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 }
