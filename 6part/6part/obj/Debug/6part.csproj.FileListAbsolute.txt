@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\6part\6part\bin\Debug\6part.exe.config
+C:\Users\ander\source\repos\6part\6part\bin\Debug\6part.exe
+C:\Users\ander\source\repos\6part\6part\bin\Debug\6part.pdb
+C:\Users\ander\source\repos\6part\6part\obj\Debug\6part.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\6part\6part\obj\Debug\6part.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\6part\6part\obj\Debug\6part.exe
+C:\Users\ander\source\repos\6part\6part\obj\Debug\6part.pdb
