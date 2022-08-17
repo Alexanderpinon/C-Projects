@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\Try_catch\Try_catch\obj\Debug\Try_catch.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Try_catch\Try_catch\obj\Debug\Try_catch.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Try_catch\Try_catch\bin\Debug\Try_catch.exe.config
+C:\Users\ander\source\repos\Try_catch\Try_catch\bin\Debug\Try_catch.exe
+C:\Users\ander\source\repos\Try_catch\Try_catch\bin\Debug\Try_catch.pdb
+C:\Users\ander\source\repos\Try_catch\Try_catch\obj\Debug\Try_catch.exe
+C:\Users\ander\source\repos\Try_catch\Try_catch\obj\Debug\Try_catch.pdb
