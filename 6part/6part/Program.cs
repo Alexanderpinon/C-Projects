@@ -16,7 +16,11 @@ namespace _6part
             string userInput = Console.ReadLine();
             for (int j = 0; j < names.Length; j++)
             {
-            Console.WriteLine(names[j] + userInput);
+            names[j]=names[j] + userInput;
+            }
+            for (int p = 0; p < names.Length; p++)
+            {
+                Console.WriteLine(names[p]);
             }
             Console.ReadLine();
 
@@ -37,7 +41,7 @@ namespace _6part
 
             
             int Z = 4;
-            while(Z <= 5)
+            while(Z < 5)
             {
                 Console.WriteLine("this is more than Z");
                 Y = Y + 1;
@@ -70,6 +74,7 @@ namespace _6part
 
                                 Console.WriteLine(e);
                             o = o + 1;
+                        break;
                             }
                             e++;
                             
@@ -134,4 +139,5 @@ namespace _6part
 
         }
     }
+
 }

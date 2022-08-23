@@ -11,10 +11,11 @@ namespace Try_catch
         static void Main(string[] args)
         {
             List<int> intergers = new List<int>() { 1, 3, 4, 5, 6, 7, 8 };
-            Console.WriteLine("Pick a number to Divide ");
-            int number = Convert.ToInt32(Console.ReadLine());
+           
             try
             {
+                Console.WriteLine("Pick a number to Divide ");
+                int number = Convert.ToInt32(Console.ReadLine());
                 foreach (int X in intergers)
                 {
                     int results = X / number;
@@ -39,7 +40,8 @@ namespace Try_catch
             {
                 Console.ReadLine();
             }
-            
+            Console.WriteLine("We've successfully tried/catch");
+            Console.ReadLine();
         }
     }
 }
