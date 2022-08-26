@@ -15,15 +15,17 @@ namespace Method1
             int result = a + 2;
             return result;
         }
-        public int subtraction(int a)
+        public int Mathoperation(decimal a)
         {
-            int result = a - 3;
-            return result;
+            decimal result = a - 1.3m;
+            int outcome = Convert.ToInt32(result);
+            return outcome;
         }
-        public int division(int a)
+        public int Mathoperation(string a)
         {
-            int result = a / 2;
-            return result;
+            int outcome = Convert.ToInt32(a);
+            outcome = outcome - 4;
+            return outcome;
         }
 
        

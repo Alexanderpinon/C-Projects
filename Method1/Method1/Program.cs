@@ -11,20 +11,17 @@ namespace Method1
         static void Main(string[] args)
         {
             Interger x = new Interger();
-            int a;
+            
+            int result = x.Mathoperation(10);
+            Console.WriteLine(result);
 
-            Console.WriteLine("Input Number: ");
-            a = Convert.ToInt32(Console.ReadLine());
-            int result = x.Mathoperation(a);
-            Console.Write(result);
-            Console.ReadLine();
+            
+            result = x.Mathoperation(10.3m);
+            Console.WriteLine(result);
+            
 
-            result = x.subtraction(a);
-            Console.Write(result);
-            Console.ReadLine();
-
-            result = x.division(a);
-            Console.Write(result);
+            result = x.Mathoperation("10");
+            Console.WriteLine(result);
             Console.ReadLine();
         }
         
