@@ -1,0 +1,7 @@
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.exe.config
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.exe
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.pdb
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.exe
+C:\Users\ander\source\repos\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.pdb
