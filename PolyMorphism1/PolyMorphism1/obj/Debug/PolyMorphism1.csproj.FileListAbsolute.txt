@@ -5,3 +5,10 @@ C:\Users\ander\source\repos\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.
 C:\Users\ander\source\repos\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.csproj.CoreCompileInputs.cache
 C:\Users\ander\source\repos\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.exe
 C:\Users\ander\source\repos\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\bin\Debug\PolyMorphism1.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\bin\Debug\PolyMorphism1.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\bin\Debug\PolyMorphism1.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\PolyMorphism1\PolyMorphism1\obj\Debug\PolyMorphism1.pdb

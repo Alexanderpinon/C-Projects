@@ -10,12 +10,9 @@ namespace PolyMorphism1
     {
         static void Main(string[] args)
         {
-            Employee Employee = new Employee();
-            Employee.firstName = "Sample";
-            Employee.lastName = "Student";
-            Employee.SayName();
+            IQuittable Employee = new Employee();
+            Employee.Quit();
             Console.ReadLine();
-            Employee.Quit = new Employee();
         }
     }
 }

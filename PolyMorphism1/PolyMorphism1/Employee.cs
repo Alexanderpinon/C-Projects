@@ -14,7 +14,7 @@ namespace PolyMorphism1
         }
         public void Quit()
         {
-            Console.WriteLine("Employee Quit.")
+            Console.WriteLine("Employee Quit.");
         }
     }
 }
