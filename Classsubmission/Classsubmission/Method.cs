@@ -27,9 +27,9 @@ namespace Classsubmission
         }
             
 
-        internal void Method(int num1)
+        internal void MyMethod(int num1)
         {
-            throw new NotImplementedException();
+            Console.WriteLine(num1);
         }
     }
 }
