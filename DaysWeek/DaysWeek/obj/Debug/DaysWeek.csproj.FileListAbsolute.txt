@@ -5,3 +5,10 @@ C:\Users\ander\source\repos\DaysWeek\DaysWeek\obj\Debug\DaysWeek.csproj.Assembly
 C:\Users\ander\source\repos\DaysWeek\DaysWeek\obj\Debug\DaysWeek.csproj.CoreCompileInputs.cache
 C:\Users\ander\source\repos\DaysWeek\DaysWeek\obj\Debug\DaysWeek.exe
 C:\Users\ander\source\repos\DaysWeek\DaysWeek\obj\Debug\DaysWeek.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\bin\Debug\DaysWeek.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\bin\Debug\DaysWeek.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\bin\Debug\DaysWeek.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\obj\Debug\DaysWeek.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\obj\Debug\DaysWeek.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\obj\Debug\DaysWeek.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\DaysWeek\DaysWeek\obj\Debug\DaysWeek.pdb

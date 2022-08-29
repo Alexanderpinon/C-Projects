@@ -10,38 +10,29 @@ namespace DaysWeek
     {
         enum Dayofweek
         {
-            none,
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
+            monday,
+            tuesday,
+            wednesday,
+            thursday,
+            friday,
+            saturday,
+            sunday
         }
         static void Main(string[] args)
-        {
-            string value = "Friday";
-            Dayofweek day ;
+        { 
             Console.WriteLine("Enter current day of week");
-            Console.ReadLine();
-            Console.WriteLine()
+            string dayWeek = Console.ReadLine();
             try
             {
-                day = (Dayofweek)Enum.Parse(typeof(Dayofweek), value);
+                Dayofweek day = (Dayofweek)Enum.Parse(typeof(Dayofweek), dayWeek);
+                Console.WriteLine("The day of the week is {0}", day);
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Please enter an actual day of week");
                 Console.WriteLine(ex.Message);
-                Console.ReadLine();
-
-                day = Dayofweek.Monday;
             }
-            if (day == Dayofweek.Friday)
-            {
-            }
-            
+             Console.ReadLine();
         }
     }
        
