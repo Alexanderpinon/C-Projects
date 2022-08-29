@@ -15,10 +15,10 @@ namespace Classsubmission
             Console.WriteLine("Input First number");
 
             int outcome = Convert.ToInt32(Console.ReadLine());
-            X.Method(outcome);
+            X.MyMethod(outcome);
             Console.ReadLine();
 
-            X.Method(outcome);
+            X.MyMethod(outcome);
             Console.ReadLine();
 
             string y = StaticMethod.MyMethod();

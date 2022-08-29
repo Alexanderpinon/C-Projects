@@ -15,7 +15,7 @@ namespace LambdaExpressions
             List<string> newList = new List<string>() { "Alex", "Billy", "joe", "maya", "Hailey", "leonard", "buddy", "joe", "melissa", "Devin" };
 
             int counter = 0;
-            foreach (FirstName in new List) 
+            foreach ("joe" in new List) 
             {
                 if (newList == newList."joe")
                 {

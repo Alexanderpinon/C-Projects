@@ -25,6 +25,7 @@ namespace DaysWeek
             Dayofweek day ;
             Console.WriteLine("Enter current day of week");
             Console.ReadLine();
+            Console.WriteLine()
             try
             {
                 day = (Dayofweek)Enum.Parse(typeof(Dayofweek), value);

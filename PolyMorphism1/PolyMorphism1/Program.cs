@@ -15,6 +15,7 @@ namespace PolyMorphism1
             Employee.lastName = "Student";
             Employee.SayName();
             Console.ReadLine();
+            Employee.Quit = new Employee();
         }
     }
 }

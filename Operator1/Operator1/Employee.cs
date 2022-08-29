@@ -12,9 +12,9 @@ namespace Operator1
         public string LastName { get; set; }
         public int EmployeeID { get; set; }
 
-        public static Employee operator== (Employee id, Employee id)
+        public static bool operator != == (Employee id,  Employee FirstName)
         {
-            Employee.id.Equal(EmployeeId);
+            Employee.id == (EmployeeId);
             return Employee;
         }
     }
