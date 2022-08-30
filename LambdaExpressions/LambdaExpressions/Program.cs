@@ -10,62 +10,19 @@ namespace LambdaExpressions
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
 
             List<Employee> newList = new List<Employee>();
-            employee.FirstName = "Alex";
-            employee.LastName = "Pinon";
-            employee.EmployeeId = 222;
-            newList.Add(employee);
-
-            employee.FirstName = "Ann";
-            employee.LastName = "Lewis";
-            employee.EmployeeId = 2209;
-            newList.Add(employee);
-
-            employee.FirstName = "Melissa";
-            employee.LastName = "Shepard";
-            employee.EmployeeId = 232;
-            newList.Add(employee);
-
-            employee.FirstName = "Misty";
-            employee.LastName = "Iverson";
-            employee.EmployeeId = 09;
-            newList.Add(employee);
-
-            employee.FirstName = "Hailey";
-            employee.LastName = "Pinon";
-            employee.EmployeeId = 3;
-            newList.Add(employee);
-
-            employee.FirstName = "joe";
-            employee.LastName = "Blare";
-            employee.EmployeeId = 1;
-            newList.Add(employee);
-
-            employee.FirstName = "Christina";
-            employee.LastName = "Lewis";
-            employee.EmployeeId = 4;
-            newList.Add(employee);
-
-            employee.FirstName = "Leonard";
-            employee.LastName = "Lewis";
-            employee.EmployeeId = 555;
-            newList.Add(employee);
-
-            employee.FirstName = "joe";
-            employee.LastName = "Cruz";
-            employee.EmployeeId = 22;
-            newList.Add(employee);
-
-            employee.FirstName = "joe";
-            employee.LastName = "Shepard";
-            employee.EmployeeId = 333;
-            newList.Add(employee);
-
-
-
-
+            newList.Add(new Employee { FirstName = "Alex", LastName = "Pinon", EmployeeId = 333 });
+            newList.Add(new Employee { FirstName = "Maya", LastName = "Shepard", EmployeeId = 303 });
+            newList.Add(new Employee { FirstName = "joe", LastName = "Cruz", EmployeeId = 9 });
+            newList.Add(new Employee { FirstName = "Leonard", LastName = "Lewis", EmployeeId = 88 });
+            newList.Add(new Employee { FirstName = "Ann", LastName = "Lewis", EmployeeId = 0 });
+            newList.Add(new Employee { FirstName = "joe", LastName = "Blarie", EmployeeId = 3 });
+            newList.Add(new Employee { FirstName = "Hailey", LastName = "Pinon", EmployeeId = 89 });
+            newList.Add(new Employee { FirstName = "Alex", LastName = "Mendoza", EmployeeId = 3338 });
+            newList.Add(new Employee { FirstName = "Christina", LastName = "Lewis", EmployeeId = 333 });
+            newList.Add(new Employee { FirstName = "Misty", LastName = "Lewis", EmployeeId = 333 });
+            
             List<Employee> justJoe = new List<Employee>();
             
             foreach (Employee emp in newList) 
