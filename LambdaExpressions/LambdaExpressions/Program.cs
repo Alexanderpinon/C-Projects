@@ -11,25 +11,86 @@ namespace LambdaExpressions
         static void Main(string[] args)
         {
             Employee employee = new Employee();
-            
-            List<string> newList = new List<string>() { "Alex", "Billy", "joe", "maya", "Hailey", "leonard", "buddy", "joe", "melissa", "Devin" };
 
-            int counter = 0;
-            foreach ("joe" in new List) 
+            List<Employee> newList = new List<Employee>();
+            employee.FirstName = "Alex";
+            employee.LastName = "Pinon";
+            employee.EmployeeId = 222;
+            newList.Add(employee);
+
+            employee.FirstName = "Ann";
+            employee.LastName = "Lewis";
+            employee.EmployeeId = 2209;
+            newList.Add(employee);
+
+            employee.FirstName = "Melissa";
+            employee.LastName = "Shepard";
+            employee.EmployeeId = 232;
+            newList.Add(employee);
+
+            employee.FirstName = "Misty";
+            employee.LastName = "Iverson";
+            employee.EmployeeId = 09;
+            newList.Add(employee);
+
+            employee.FirstName = "Hailey";
+            employee.LastName = "Pinon";
+            employee.EmployeeId = 3;
+            newList.Add(employee);
+
+            employee.FirstName = "joe";
+            employee.LastName = "Blare";
+            employee.EmployeeId = 1;
+            newList.Add(employee);
+
+            employee.FirstName = "Christina";
+            employee.LastName = "Lewis";
+            employee.EmployeeId = 4;
+            newList.Add(employee);
+
+            employee.FirstName = "Leonard";
+            employee.LastName = "Lewis";
+            employee.EmployeeId = 555;
+            newList.Add(employee);
+
+            employee.FirstName = "joe";
+            employee.LastName = "Cruz";
+            employee.EmployeeId = 22;
+            newList.Add(employee);
+
+            employee.FirstName = "joe";
+            employee.LastName = "Shepard";
+            employee.EmployeeId = 333;
+            newList.Add(employee);
+
+
+
+
+            List<Employee> justJoe = new List<Employee>();
+            
+            foreach (Employee emp in newList) 
             {
-                if (newList == newList."joe")
+                if (emp.FirstName == "joe")
                 {
-                    counter++;
+                    justJoe.Add(emp);
                 }
             }
-            string Name = newList.Where(x => x == "joe").Last();
-            Console.WriteLine(Name);
+            foreach (Employee emp in justJoe)
+            {
+                Console.WriteLine("{0} {1} {2}", emp.FirstName, emp.LastName, emp.EmployeeId );
+            }
 
-            List<int> EmployeeidList = new List<int>() { 22, 444, 1, 3, 5, 4, 57, 77, 99, 10 };
+            List<Employee> JustjoeLambda = newList.Where(x => x.FirstName == "joe").ToList();
+            foreach (Employee emp in JustjoeLambda)
+            {
+                Console.WriteLine("{0} {1} {2}", emp.FirstName, emp.LastName, emp.EmployeeId);
+            }
 
-            int greater = EmployeeidList.Where(x => x > 5).Last();
-
-            Console.WriteLine(greater);
+            List<Employee> Employeeids = newList.Where(x => x.EmployeeId > 5).ToList();
+            foreach (Employee emp in Employeeids)
+            {
+                Console.WriteLine("{0} {1} {2}", emp.FirstName, emp.LastName, emp.EmployeeId);
+            }
             Console.ReadLine();
         }
     }

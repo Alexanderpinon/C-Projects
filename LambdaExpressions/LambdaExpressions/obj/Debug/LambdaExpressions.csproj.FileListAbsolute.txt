@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
