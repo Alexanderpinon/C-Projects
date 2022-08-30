@@ -6,25 +6,22 @@ using System.Threading.Tasks;
 
 namespace Constructor
 {
-    class sample
+    public class sample
     {
-        public class VariantDate
-        {
             public int day;
             public int month;
             public int year;
 
-            public VariantDate(int day) : this(day, 1) { }
+            public sample() : this(5, 9, 2000) { }
+            public sample(int day) : this(day, 1, 1909) { }
 
-            public VariantDate(int day, int month) : this(day, month, 1900) { }
+            public sample(int day, int month) : this(day, month, 1900) { }
 
-            public VariantDate(int day, int month, int year)
+            public sample(int day, int month, int year)
             {
                 this.day = day;
                 this.month = month;
                 this.year = year;
             }
-
-        }
     }
 }

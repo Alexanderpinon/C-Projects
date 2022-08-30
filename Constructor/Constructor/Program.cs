@@ -15,23 +15,15 @@ namespace Constructor
             const int b = 20;
             const int c = b + a;
             Console.WriteLine(c);
-            Console.ReadLine();
 
             var age = 22;
             Console.WriteLine("var holds an int = {0}", age);
 
-            public class mySampleClass
-        {
-            public mySampleClass()
-            {
-                // no parameter constructor method.// First Constructor  
-            }
-            public mySampleClass(int Age)
-            {
-                // constructor with one parameter.// Second Constructor  
-            }
-
-            public mySampleClass(int Age, string Name)
+            sample sampleOne = new sample();
+            Console.WriteLine(sampleOne.month + " " + sampleOne.day + " " + sampleOne.year);
+            sample sampleTwo = new sample(30);
+            Console.WriteLine(sampleTwo.month + " " + sampleTwo.day + " " + sampleTwo.year);
+            Console.ReadLine();
         }
     }
 }

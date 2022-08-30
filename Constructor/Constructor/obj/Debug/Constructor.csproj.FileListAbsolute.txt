@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\ander\OneDrive\Documents\GitHub\C-Projects\Constructor\Constructor\obj\Debug\Constructor.pdb
