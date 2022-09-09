@@ -1,0 +1,13 @@
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\XyzSchool.exe.config
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\XyzSchool.exe
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\XyzSchool.pdb
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\EntityFramework.dll
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\EntityFramework.xml
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.csproj.CopyComplete
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.exe
+C:\Users\ander\source\repos\XyzSchool\XyzSchool\obj\Debug\XyzSchool.pdb
